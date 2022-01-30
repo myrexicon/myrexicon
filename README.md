@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myrexicon
-- 👀 I’m interested in tech and music
+- 👀 I’m interested in tech, music and education
 - 🌱 I’m currently learning Python and Swift
 - 💞️ I’m looking to collaborate on simple projects to develop my understanding
 - 📫 How to reach me: send.message.to(Instagram.nickname("myrexicon))
